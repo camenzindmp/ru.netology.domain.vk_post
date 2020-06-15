@@ -1,5 +1,3 @@
-package domain;
-
 public class CommentsInfo {
     // Комментатор:
     private String getCommentatorImageUrl; // изображение юзера, оставившего комментарий;
