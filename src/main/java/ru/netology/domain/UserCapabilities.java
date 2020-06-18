@@ -3,9 +3,9 @@ package ru.netology.domain;
 public class UserCapabilities {
 
     // Действия с постом:
-    private boolean canPin;
-    private boolean canDelete;
-    private boolean canEdit;
+    private boolean canPin;         // может ли юзер закреить пост;
+    private boolean canDelete;      // может ли юзер удалить пост;
+    private boolean canEdit;        // может ли юзер редактировать пост;
     private boolean canLike;        // информация о том, может ли текущий пользователь поставить отметку «Мне нравится»;
     private boolean canShare;       // информация о том, может ли текущий пользователь сделать репост записи;
 

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="170fb97a-689d-49d6-82fd-69a5021c8e0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/manager/PostManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CommentsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/domain/CommentsInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/domain/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UserCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/domain/UserCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/domain/UserCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/domain/UserCapabilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592226200037</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PostManager created">
+      <created>1592398400073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592398400073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" v1" />
     <MESSAGE value=" v2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" v2" />
+    <MESSAGE value="PostManager created" />
+    <option name="LAST_COMMIT_MESSAGE" value="PostManager created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1592396480336">
@@ -88,10 +93,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="551" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1592225792841" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1592226199203">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1592398398799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1592226199203" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1592398398799" />
     <state x="602" y="330" key="Github.ShareDialog" timestamp="1592124934516">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -100,10 +105,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="501" y="134" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1592127397108" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592226206680">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592398403003">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592226206680" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592398403003" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1592126360131">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

@@ -47,6 +47,16 @@ public class Post {
     private String shareButtonIconUrl;   // иконка кнопки "Поделиться";
     private String viewsIconUrl;         // иконка для количества просмотров;
 
+    private CommentsInfo commentsInfo;
+
+    public CommentsInfo getCommentsInfo() {
+        return commentsInfo;
+    }
+
+    public void setCommentsInfo(CommentsInfo commentsInfo) {
+        this.commentsInfo = commentsInfo;
+    }
+
     public int getGroupId() {
         return groupId;
     }
